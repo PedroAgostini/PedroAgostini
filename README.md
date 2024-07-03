@@ -2,7 +2,7 @@
 
 
 - 👨‍🎓 Studying Information System at Instituto Toledo de Ensino.
-- 👨‍🎓 Studying Data Engineering
+- 👨‍🎓 Studying Postgraduate Data Engineering at UNOPAR.
 - 💻 Visit my Website: www.devpedroagostini.com
 
 <div>
