@@ -1,11 +1,9 @@
 ### Hi! I'm Pedro Agostini! 👋
 
 
-- 👨🏻‍💻 Web Developer.
-- 👨‍🎓 Studying Analysis and Systems Development at Instituto Toledo de Ensino.
-- 👨‍🎓 Studying JavaScript, SQL Server and HTML & CSS at Alura.
-- 👨🏻‍💻 Specialized in Front-End language.
-- 💻 Visit my Website: www.devpedroagostini.com.
+- 👨‍🎓 Studying Information System at Instituto Toledo de Ensino.
+- 👨‍🎓 Studying Data Engineering
+- 💻 Visit my Website: www.devpedroagostini.com
 
 <div>
 <br/>
