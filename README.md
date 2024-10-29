@@ -10,7 +10,7 @@
 
 <br>
 
-<p style="font-size: 18px;font-style: italic; text-align: center">“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</p>
+<p style="font-size: 18px; font-style: italic; text-align: center">“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</p>
 
 ---
 
