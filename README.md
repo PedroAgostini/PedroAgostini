@@ -39,6 +39,7 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 | <img src="https://img.shields.io/badge/Oracle_db-000?style=for-the-badge&logo=oracle" alt="Oracle"> | Iniciante |
 
 </div>
+
 ---
 
 ## Estatísticas
