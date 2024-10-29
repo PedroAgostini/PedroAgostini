@@ -14,14 +14,15 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 ## Redes Sociais
 
 <h3 align="center"><i>Acesse minhas redes sociais abaixo</i></h3>
-<p align="center">
+<div style="text-align: center; font-size: 20px">
+    <h3 style="font-style: italic;">Acesse minhas redes sociais abaixo</h3>
     <a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="transform: scale(2); margin:0 40px;">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="transform: scale(2); margin: 0 20px;">
     </a>
     <a href="https://github.com/PedroAgostini" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="transform: scale(1.5); margin:0 40px;">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="transform: scale(2); margin: 0 20px;">
     </a>
-</p>
+</div>
 
 
 <h2>Habilidades</h2>
