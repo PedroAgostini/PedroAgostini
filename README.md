@@ -13,9 +13,8 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 
 ## Redes Sociais
 
-<h3 align="center"><i>Acesse minhas redes sociais abaixo</i></h3>
+<h3><i>Acesse minhas redes sociais abaixo</i></h3>
 <div style="text-align: center;">
-    <h3 style="font-style: italic;">Acesse minhas redes sociais abaixo</h3>
     <a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; margin: 0 20px;">
     </a>
