@@ -26,41 +26,19 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 
 ---
 
-## Habilidades
+<h2 align="center">Habilidades</h2>
 
-<p align="center">
-<table>
-    <thead>
-        <tr>
-            <th>Tecnologia</th>
-            <th>Nível</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td><img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML"></td>
-            <td>Intermediário</td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS"></td>
-            <td>Intermediário</td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Python_Datascience-000?style=for-the-badge&logo=python" alt="Python"></td>
-            <td>Intermediário</td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript"></td>
-            <td>Iniciante</td>
-        </tr>
-        <tr>
-            <td><img src="https://img.shields.io/badge/Oracle_db-000?style=for-the-badge&logo=oracle" alt="Oracle"></td>
-            <td>Iniciante</td>
-        </tr>
-    </tbody>
-</table>
-</p>
+<div align="center">
 
+| Tecnologia  | Nível   |
+|-------------|---------|
+| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML"> | Intermediário |
+| <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS"> | Intermediário |
+| <img src="https://img.shields.io/badge/Python_Datascience-000?style=for-the-badge&logo=python" alt="Python"> | Intermediário |
+| <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript"> | Iniciante |
+| <img src="https://img.shields.io/badge/Oracle_db-000?style=for-the-badge&logo=oracle" alt="Oracle"> | Iniciante |
+
+</div>
 ---
 
 ## Estatísticas
