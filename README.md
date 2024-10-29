@@ -8,7 +8,8 @@ Possuo conhecimento em tecnologias como HTML, CSS, Oracle Database, MySQL, Linux
 
 Motivado por desafios e com forte senso de responsabilidade, busco integrar uma equipe que me permita contribuir para o crescimento da empresa, utilizando minhas habilidades e conhecimentos para garantir o bom funcionamento e a segurança dos sistemas de banco de dados. Agora, com o foco em Ciência de Dados, estou entusiasmado para aplicar técnicas de análise avançada para a geração de insights valiosos e direcionamento estratégico.
 
-<p align="center" style="font-size: 24px"><i>“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</i></p>
+<h2 align="center"><i>“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</i></h2>
+
 
 
 ## Redes Sociais
