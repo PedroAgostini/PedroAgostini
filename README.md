@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Augusto de Agostini</h1>
+<h1 align="center"><i>Pedro Augusto de Agostini</i></h1>
 
 ## Sobre mim
 
