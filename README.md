@@ -16,10 +16,10 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 <h3 align="center"><i>Acesse minhas redes sociais abaixo</i></h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="margin:0 40px;">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" style="transform: scale(1.5); margin:0 40px;">
     </a>
     <a href="https://github.com/PedroAgostini" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="margin:0 40px;">
+        <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" style="transform: scale(1.5); margin:0 40px;">
     </a>
 </p>
 
