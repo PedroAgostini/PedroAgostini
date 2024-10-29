@@ -10,7 +10,6 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 
 <p align="center" style="font-size: 18px; font-style: italic;">“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</p>
 
----
 
 ## Redes Sociais
 
@@ -24,9 +23,8 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
     </a>
 </p>
 
----
 
-<h2 align="center">Habilidades</h2>
+<h2>Habilidades</h2>
 
 <div align="center">
 
@@ -40,7 +38,6 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 
 </div>
 
----
 
 ## Estatísticas
 
