@@ -30,7 +30,7 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
 
 | Tecnologia  | Nível   |
 |-------------|---------|
-| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML"> | Intermediário |
+| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML"> | Avançado |
 | <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS"> | Intermediário |
 | <img src="https://img.shields.io/badge/Python_Datascience-000?style=for-the-badge&logo=python" alt="Python"> | Intermediário |
 | <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript"> | Iniciante |
