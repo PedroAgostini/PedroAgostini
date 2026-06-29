@@ -1,54 +1,132 @@
-<h1 align="center"><i>Pedro Augusto de Agostini</i></h1>
-
-## About Me
-
-I am a Web Developer with experience in creating modern, responsive websites focused on performance, usability, and best development practices. I have a strong interest in technology, innovation, and Artificial Intelligence, an area I have been continuously improving in order to apply smarter, more automated, and strategic solutions to digital projects.
-
-I hold a Bachelor's Degree in Information Systems, a Technologist Degree in Systems Analysis and Development, and a Postgraduate Degree in Database. My academic and professional background has given me a solid foundation in Web Development, Database Management, Data Analysis, Cybersecurity, and Artificial Intelligence.
-
-I have knowledge of technologies such as HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, and Git, as well as experience with Databases, Data Analysis, and tools focused on optimizing digital processes.
-
-My goal is to keep evolving as a Web Developer, creating efficient, scalable, and well-structured solutions while combining technology, creativity, and intelligence to deliver high-value projects.
-
-<h4 align="center"><i>“The future is not something that simply happens, but something you create.” - Steve Jobs</i></h4>
-
-## Social Media
-
-<div align="center">
-    <h3><i>Access my social media below</i></h3>
-    <a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; margin: 0 25px;">
-    </a>
-    <a href="https://github.com/PedroAgostini" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="width: 130px; margin: 0 25px;">
-    </a>
-</div>
-
-<h2>Skills</h2>
-
 <div align="center">
 
-| Technology                                                                                                                         | Level        |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML">                                        | Advanced     |
-| <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS">                                           | Advanced     |
-| <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">                  | Intermediate |
-| <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript">                       | Intermediate |
-| <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React">                                      | Intermediate |
-| <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js">                              | Intermediate |
-| <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" alt="Git">                                            | Intermediate |
-| <img src="https://img.shields.io/badge/Databases-000?style=for-the-badge&logo=mysql" alt="Databases">                              | Intermediate |
-| <img src="https://img.shields.io/badge/Data_Analysis-000?style=for-the-badge&logo=powerbi" alt="Data Analysis">                    | Intermediate |
-| <img src="https://img.shields.io/badge/Cybersecurity-000?style=for-the-badge&logo=securityscorecard" alt="Cybersecurity">          | Beginner     |
-| <img src="https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge&logo=openai" alt="Artificial Intelligence"> | Intermediate |
+# 👋 Hey, I'm Pedro Augusto de Agostini
+
+### Web Developer | AI Enthusiast | Data & Database Specialist
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+modern+and+responsive+websites;Exploring+Artificial+Intelligence+solutions;Passionate+about+Web+Development+and+Technology;Always+learning%2C+creating+and+improving" alt="Typing SVG" />
 
 </div>
 
-## Statistics
+---
 
-<p align="center">
-  <a href="https://github.com/PedroAgostini">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroAgostini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAgostini&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</p>
+## 🚀 About Me
+
+I am a **Web Developer** focused on building modern, responsive, and high-performance websites. I work with technologies that allow me to create clean, scalable, and user-friendly digital experiences.
+
+I have experience with **Artificial Intelligence**, applying smart tools and automation to improve workflows, optimize processes, and create more strategic digital solutions.
+
+I hold a **Bachelor’s Degree in Information Systems**, a **Technologist Degree in Systems Analysis and Development**, and a **Postgraduate Degree in Database**.
+
+Beyond Web Development, I also have knowledge in **Databases, Data Analysis, Cybersecurity, and Artificial Intelligence**, which gives me a broader technical vision when developing digital products.
+
+My goal is to keep evolving as a developer, combining **technology, creativity, data, and intelligence** to build solutions that generate real value.
+
+---
+
+## 🧠 Areas of Knowledge
+
+<div align="center">
+
+| Area                           | Description                                                      |
+| ------------------------------ | ---------------------------------------------------------------- |
+| 🌐 **Web Development**         | Creation of modern, responsive, and optimized websites           |
+| 🤖 **Artificial Intelligence** | Experience using AI tools and automation in digital projects     |
+| 🗄️ **Databases**              | Knowledge in database structure, management, and optimization    |
+| 📊 **Data Analysis**           | Data interpretation, insights, dashboards, and decision support  |
+| 🔐 **Cybersecurity**           | Basic knowledge of security practices and digital protection     |
+| ⚙️ **Systems Development**     | Technical background in software, systems, and development logic |
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Front-End
+
+<img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-111?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC" />
+<img src="https://img.shields.io/badge/JavaScript-111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/React-111?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-111?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+
+### Tools & Version Control
+
+<img src="https://img.shields.io/badge/Git-111?style=for-the-badge&logo=git&logoColor=F05032" />
+<img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+
+### Data, Database & AI
+
+<img src="https://img.shields.io/badge/Database-111?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+<img src="https://img.shields.io/badge/Data_Analysis-111?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-111?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Cybersecurity-111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+
+</div>
+
+---
+
+## 📌 Currently Focused On
+
+<div align="center">
+
+| Focus                      | Goal                                           |
+| -------------------------- | ---------------------------------------------- |
+| ⚛️ React                   | Building dynamic and scalable interfaces       |
+| ▲ Next.js                  | Creating modern and optimized web applications |
+| 🎨 Tailwind CSS            | Developing clean and responsive layouts        |
+| 🤖 Artificial Intelligence | Applying AI to improve digital solutions       |
+| 📊 Data & Databases        | Strengthening analytical and database skills   |
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroAgostini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAgostini&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAgostini&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 🌎 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/PedroAgostini" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### “The future is not something that simply happens, but something you create.”
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:090979&height=120&section=footer"/>
+
+</div>
