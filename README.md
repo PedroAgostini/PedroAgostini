@@ -1,21 +1,21 @@
 <h1 align="center"><i>Pedro Augusto de Agostini</i></h1>
 
-## Sobre mim
+## About Me
 
-Profissional dedicado e em constante aprimoramento, buscando atuar como Analista de Dados, com a meta de seguir carreira como DEV. Possuo experiência prática em ambiente corporativo, adquirida durante atuação como Técnico de Informática e em estágio como Administrador de Banco de Dados. Sou graduando em Sistemas da Informação e possuo pós-graduação em Engenharia de Dados em andamento, demonstrando meu compromisso com a atualização constante e busca por aprofundamento técnico.
+I am a Web Developer with experience in creating modern, responsive websites focused on performance, usability, and best development practices. I have a strong interest in technology, innovation, and Artificial Intelligence, an area I have been continuously improving in order to apply smarter, more automated, and strategic solutions to digital projects.
 
-Possuo conhecimento em tecnologias como HTML, CSS, Oracle Database, MySQL, Linux, administração de bancos de dados, além de habilidades em Power BI e Python. Minha experiência prática me permite atuar com segurança em atividades como instalação, configuração, manutenção e otimização de sistemas de gerenciamento de banco de dados, além de lidar com a segurança e integridade dos dados.
+I hold a Bachelor's Degree in Information Systems, a Technologist Degree in Systems Analysis and Development, and a Postgraduate Degree in Database. My academic and professional background has given me a solid foundation in Web Development, Database Management, Data Analysis, Cybersecurity, and Artificial Intelligence.
 
-Motivado por desafios e com forte senso de responsabilidade, busco integrar uma equipe que me permita contribuir para o crescimento da empresa, utilizando minhas habilidades e conhecimentos para garantir o bom funcionamento e a segurança dos sistemas de banco de dados. Agora, com o foco em Ciência de Dados, estou entusiasmado para aplicar técnicas de análise avançada para a geração de insights valiosos e direcionamento estratégico.
+I have knowledge of technologies such as HTML, CSS, Tailwind CSS, JavaScript, React, Next.js, and Git, as well as experience with Databases, Data Analysis, and tools focused on optimizing digital processes.
 
-<h4 align="center"><i>“O futuro não é algo que simplesmente acontece, mas algo que você cria.” - Steve Jobs</i></h4>
+My goal is to keep evolving as a Web Developer, creating efficient, scalable, and well-structured solutions while combining technology, creativity, and intelligence to deliver high-value projects.
 
+<h4 align="center"><i>“The future is not something that simply happens, but something you create.” - Steve Jobs</i></h4>
 
-
-## Redes Sociais
+## Social Media
 
 <div align="center">
-    <h3><i>Acesse minhas redes sociais abaixo</i></h3>
+    <h3><i>Access my social media below</i></h3>
     <a href="https://www.linkedin.com/in/pedrodeagostini/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="width: 150px; margin: 0 25px;">
     </a>
@@ -24,22 +24,27 @@ Motivado por desafios e com forte senso de responsabilidade, busco integrar uma 
     </a>
 </div>
 
-<h2>Habilidades</h2>
+<h2>Skills</h2>
 
 <div align="center">
 
-| Tecnologia  | Nível   |
-|-------------|---------|
-| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML"> | Avançado |
-| <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS"> | Intermediário |
-| <img src="https://img.shields.io/badge/Python_Datascience-000?style=for-the-badge&logo=python" alt="Python"> | Intermediário |
-| <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript"> | Iniciante |
-| <img src="https://img.shields.io/badge/Oracle_db-000?style=for-the-badge&logo=oracle" alt="Oracle"> | Iniciante |
+| Technology                                                                                                                         | Level        |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| <img src="https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5" alt="HTML">                                        | Advanced     |
+| <img src="https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3" alt="CSS">                                           | Advanced     |
+| <img src="https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS">                  | Intermediate |
+| <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" alt="JavaScript">                       | Intermediate |
+| <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" alt="React">                                      | Intermediate |
+| <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs" alt="Next.js">                              | Intermediate |
+| <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" alt="Git">                                            | Intermediate |
+| <img src="https://img.shields.io/badge/Databases-000?style=for-the-badge&logo=mysql" alt="Databases">                              | Intermediate |
+| <img src="https://img.shields.io/badge/Data_Analysis-000?style=for-the-badge&logo=powerbi" alt="Data Analysis">                    | Intermediate |
+| <img src="https://img.shields.io/badge/Cybersecurity-000?style=for-the-badge&logo=securityscorecard" alt="Cybersecurity">          | Beginner     |
+| <img src="https://img.shields.io/badge/Artificial_Intelligence-000?style=for-the-badge&logo=openai" alt="Artificial Intelligence"> | Intermediate |
 
 </div>
 
-
-## Estatísticas
+## Statistics
 
 <p align="center">
   <a href="https://github.com/PedroAgostini">
