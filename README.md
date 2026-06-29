@@ -91,20 +91,18 @@ My goal is to keep evolving as a developer, combining **technology, creativity, 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroAgostini&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Pedro Agostini GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PedroAgostini&theme=tokyonight" alt="GitHub Profile Summary"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAgostini&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" alt="Most Used Languages"/>
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PedroAgostini&theme=tokyonight" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PedroAgostini&theme=tokyonight" alt="Most Commit Language"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAgostini&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroAgostini&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-</div>
-
 
 ---
 
